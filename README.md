@@ -21,6 +21,8 @@ During 3 months, I tryed hard to learn JavaScript, React and React Native. And i
 That's why I'm here. I'm here to add as much as possible project so I can reach my goal. 
 For now, I'm currently working on my portfolio
 
+Languages and Tools:
+Figma  Html JavaScript MongoDB NodeJS React React Native SASS Cloudinary Stripe 
 
 ### 📫 How to reach me
 
